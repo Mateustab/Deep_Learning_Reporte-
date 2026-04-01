@@ -1,6 +1,8 @@
 # Detector de personas caídas  
 ## Deep_Learning_Reporte-  
 
+## Al ejecutar el notebook cambiar a entorno de ejecucion GPU T4
+
 Presentación de el trabajo final de la asignatura Deep Learning.  
 
 ## Contexto  
